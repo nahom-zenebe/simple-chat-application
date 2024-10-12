@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.container{
+    
+    width: 400px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 80px;
+    cursor: pointer;
+  
+   
+}
+.linktoprofile{
+    color: #fff;
+    text-decoration: none;
+}
+.title1{
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.3rem;
+    margin-left: 20px;
+
+   
+
+}
+.user-name{
+    margin-left: 180px;
+    font-size: 2rem;
+    margin-top: 50px;
+}
+.title2{
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.3rem;
+    margin-left: 50px;
+
+}
+.title5{
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.3rem;
+    margin-left: 20px;
+
+}
+nav{
+    width: 100%;
+    height: 80px;
+    background-color:rgb(29, 92, 182) ;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    
+    
+
+}
+.container:hover{
+    box-shadow:6px 6px 10px #a5a2a2;
+}
+.title{
+    background-color: rgb(29, 92, 182);
+    color: #fff;
+    text-align: center;
+    font-size: 1.3rem;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 80px;
+}
+.body{
+    margin-bottom: 100px;
+    text-align: center;
+    color: #000;
+    text-decoration: none;
+    
+}
+.footer{
+    background-color: rgb(29, 92, 182);
+    color: #fff;
+    font-size: 1.3rem;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+
+}
+
+.btn4{
+
+
+    cursor: pointer;
+   display: inline-block;
+ margin-left: 30px;
+   font-size: 1.4rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+
+    color: #fff;
+    background-color: rgb(29, 92, 182);
+
+
+   
+}
+.username{
+    font-size: 1.4rem;
+    color: #fff;
+    display: inline;
+    margin-left: 56px;
+}
+.like-btn{
+    margin-left: 200px;
+    margin-right: 10px;
+
+
+}
+.error-handle{
+    text-align: center;
+    margin-top: 220px;
+    color: rgb(206, 19, 19);
+    margin-bottom: 40px;
+}
+.error-handle1{
+    text-align: center;
+    margin-bottom: 100px;
+    color: rgb(206, 19, 19);
+}
+.kol{
+    text-decoration: none;
+    color: #000;
+    margin-top: 60px;
+    margin-left: 300px;
+    font-size: 1.4rem;
+
+}
+
+
